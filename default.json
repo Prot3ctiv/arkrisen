@@ -5,7 +5,7 @@
             "HideIcon": false,
             "HideIconAfter": 60,
             "IconURL": "https://i.imgur.com/PiYs0EW.png",
-            "DisableIconText": false,
+            "DisableIconText": true,
             "IconPosition": 0,
             "IconTextColor": 0,
             "OpenOnStart": true,
@@ -16,9 +16,9 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome to ARK RPG!</RichColor>",
-                    "title1": "**ARK RPG Server**",
-                    "text1": "\n            Welcome to the ARK RPG server! Here, you'll find a unique and challenging experience unlike any other ARK server.\n\n            **Key Features:**\n\n            * **Boss Loot:** Defeat powerful bosses to acquire epic gear and resources.\n            * **Unique Taming System:** Tame creatures with a one-of-a-kind system that rewards strategy and skill.\n            * **NPCs with Quests:** Interact with NPCs scattered throughout the world to embark on exciting quests.\n            * **Weekly & Daily Quests:** Complete regular quests for additional rewards and challenges.\n\n            Visit our website for more information: https://discord.gg/AUPufV3YsY \n            ",
+                    "buttontext": "Arkrisen",
+                    "title1": "ARKRISEN - RPG Server",
+                    "text1": "Willkommen auf dem ARK RPG-Server! Hier erwartet dich ein einzigartiges und herausforderndes Erlebnis, das es so auf keinem anderen ARK-Server gibt.\n\nHauptfunktionen:\n\n Bossbeute: Besiege mächtige Bosse, um epische Ausrüstung und Ressourcen zu erlangen.\n Einzigartiges Zähmungssystem: Zähme Kreaturen indem du Sie Ausbrütest.\n* NPCs mit Quests: Interagiere mit NPCs, die über die ganze Welt verteilt sind, und begib dich auf spannende Quests.\n Wochen- & Tagesquests: Schließe regelmäßig Quests ab, um zusätzliche Belohnungen und Herausforderungen zu erhalten.\n\n Besuche uns im Discord für weitere Informationen und Updates",
                     "imageurl": "https://i.imgur.com/PiYs0EW.png"
                 }
             }
@@ -27,6 +27,12 @@
             {
                 "link1": {
                     "text": "Discord",
+                    "url": "https://discord.gg/AUPufV3YsY"
+                }
+            }
+            {
+                "link2": {
+                    "text": "Shop",
                     "url": "https://discord.gg/AUPufV3YsY"
                 }
             }
