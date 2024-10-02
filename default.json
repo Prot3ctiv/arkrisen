@@ -16,8 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext":   
- "<RichColor Color=\"1,0,0,1\">Welcome to ARK RPG!</RichColor>",
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome to ARK RPG!</RichColor>",
                     "title1": "**ARK RPG Server**",
                     "text1": "\n            Welcome to the ARK RPG server! Here, you'll find a unique and challenging experience unlike any other ARK server.\n\n            **Key Features:**\n\n            * **Boss Loot:** Defeat powerful bosses to acquire epic gear and resources.\n            * **Unique Taming System:** Tame creatures with a one-of-a-kind system that rewards strategy and skill.\n            * **NPCs with Quests:** Interact with NPCs scattered throughout the world to embark on exciting quests.\n            * **Weekly & Daily Quests:** Complete regular quests for additional rewards and challenges.\n\n            Visit our website for more information: https://discord.gg/AUPufV3YsY \n            ",
                     "imageurl": "https://i.imgur.com/PiYs0EW.png"
